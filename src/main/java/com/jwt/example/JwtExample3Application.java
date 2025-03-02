@@ -8,7 +8,7 @@ public class JwtExample3Application {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Setup ready Nishant Singh ");
+		System.out.println("Application Started . . . ");
 		SpringApplication.run(JwtExample3Application.class, args);
 	}
 
