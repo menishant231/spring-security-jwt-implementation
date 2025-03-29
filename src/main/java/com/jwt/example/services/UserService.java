@@ -16,7 +16,7 @@ public class UserService {
 	public UserService() {
 		store.add(new User(UUID.randomUUID().toString() ,"NISHANT SINGH", "nishant@gmail.com"));
 		store.add(new User(UUID.randomUUID().toString() ,"PRINCE SINGH", "prince@gmail.com"));
-		store.add(new User(UUID.randomUUID().toString() ,"ALPHA SINGH", "alpha@gmail.com"));
+		store.add(new User(UUID.randomUUID().toString() ,"JOHN DOE", "john@gmail.com"));
 		
 
 	}
